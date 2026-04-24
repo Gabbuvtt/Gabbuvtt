@@ -18,8 +18,8 @@ As the **Co-founder of BiCloud M and Bolix**, I lead the design of robust infras
 ---
 
 ## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabbuvtg&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbuvtt&layout=compact&theme=dark&hide_border=true)
 
 ---
 
