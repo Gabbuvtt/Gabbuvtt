@@ -64,6 +64,6 @@ As the **Co-founder of BiCloud M and Bolix**, I lead the design of robust infras
 
 ## 📫 Connect with me
 - **Email:** Mejiagabriel0715@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/gabriel-eduardo-mejia-monsanto-12682b405?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- **Portafolio:** https://portafolio-ten-ashen-59.vercel.app
 
 
